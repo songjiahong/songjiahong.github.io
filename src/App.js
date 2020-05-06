@@ -1,14 +1,11 @@
 import React from 'react';
-import logo from './logo.svg';
-import { Counter } from './features/counter/Counter';
+import Album from './features/album/Album';
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <h1>Jiahong Song</h1>
-      </header>
+      <Album />
     </div>
   );
 }

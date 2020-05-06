@@ -27,4 +27,5 @@ Your app is ready to be deployed!
 
 ### `npm run deploy` 
 
-Deploy the page to github personal page
+Deploy the page to github personal page.
+More on [https://create-react-app.dev/docs/deployment/#github-pages-https-pagesgithubcom](Facebook React Deployment Doc)
